@@ -1,0 +1,3 @@
+interface Course {
+    double calculateFee();
+}
